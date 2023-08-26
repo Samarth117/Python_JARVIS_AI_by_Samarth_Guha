@@ -27,4 +27,4 @@ Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 License
-This project is licensed under the Apache 2.0 License.
+This project - JARVIS A.I. by Samarth is licensed under the Apache 2.0 License.
